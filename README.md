@@ -1,4 +1,4 @@
-## Bitcoin Lightning Network Texas Hold'em Poker
+## Lightning Bitcoin LBTC Network Texas Hold'em Poker
 
 Using [Firebase](https://firebase.google.com) as platform
 
